@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kumail Abbas 👋
 
-<!--
-**code-dotcom22/code-dotcom22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Software Engineer at Techtics.ai
 
-Here are some ideas to get you started:
+I build web applications and APIs using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, Python, Django
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Postman, AWS
+
+### 🔭 Currently Working On
+Full Stack applications and AI-powered solutions.
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/kumailabbas5
+- Email: zaidikumail624@gmail.com
+  
