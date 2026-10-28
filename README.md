@@ -1,6 +1,6 @@
-# Hi, I'm Kumail Abbas 👋
 
-💻 Full Stack Software Engineer at Techtics.ai
+
+## Full Stack Software Engineer at Techtics.ai
 
 I build web applications and APIs using modern technologies.
 
